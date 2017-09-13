@@ -106,7 +106,13 @@
                   "gns_adm1":"HR03",
                   "gns_region":null,
                   "br_vozaca":66225,
-                  "br_stanovnika":122568
+                  "br_stanovnika":122568,
+				  "stopa2009":15.50,
+				  "stopa2010":17.90,
+				  "stopa2011":18.80,
+				  "stopa2012":19.00,
+				  "stopa2013":20.50
+				  
                }
             },
             {
@@ -192,7 +198,12 @@
                   "gns_adm1":"HR13",
                   "gns_region":null,
                   "br_vozaca":52854,
-                  "br_stanovnika":109375
+                  "br_stanovnika":109375,
+				  "stopa2009":20.60,
+				  "stopa2010":23.20,
+				  "stopa2011":23.30,
+				  "stopa2012":24.00,
+				  "stopa2013":24.80
                }
             },
             {
@@ -295,7 +306,12 @@
                   "gns_adm1":"HR15",
                   "gns_region":null,
                   "br_vozaca":232940,
-                  "br_stanovnika":454798
+                  "br_stanovnika":454798,
+				  "stopa2009":19.40,
+				  "stopa2010":22.70,
+				  "stopa2011":24.00,
+				  "stopa2012":25.80,
+				  "stopa2013":27.90
                }
             },
             {
@@ -408,7 +424,12 @@
                   "gns_adm1":"HR19",
                   "gns_region":null,
                   "br_vozaca":83154,
-                  "br_stanovnika":170017
+                  "br_stanovnika":170017,
+				  "stopa2009":18.70,
+				  "stopa2010":21.10,
+				  "stopa2011":21.00,
+				  "stopa2012":21.10,
+				  "stopa2013":22.50
                }
             },
             {
@@ -484,8 +505,13 @@
                   "gns_adm1":"HR07",
                   "gns_region":null,
                   "br_vozaca":65640,
-                  "br_stanovnika":132892
-               }
+                  "br_stanovnika":132892,
+				  "stopa2009":11.70,
+				  "stopa2010":16.40,
+				  "stopa2011":18.20,
+				  "stopa2012":19.80,
+				  "stopa2013":21.30
+			   }
             },
             {
                "type":"Polygon",
@@ -558,7 +584,12 @@
                   "gns_adm1":"HR05",
                   "gns_region":null,
                   "br_vozaca":66989,
-                  "br_stanovnika":128899
+                  "br_stanovnika":128899,
+				  "stopa2009":23.00,
+				  "stopa2010":26.00,
+				  "stopa2011":25.00,
+				  "stopa2012":25.70,
+				  "stopa2013":26.20
                }
             },
             {
@@ -640,7 +671,12 @@
                   "gns_adm1":"HR08",
                   "gns_region":null,
                   "br_vozaca":22679,
-                  "br_stanovnika":50927
+                  "br_stanovnika":50927,
+				  "stopa2009":18.90,
+				  "stopa2010":21.50,
+				  "stopa2011":22.30,
+				  "stopa2012":20.90,
+				  "stopa2013":23.00
                }
             },
             {
@@ -740,7 +776,12 @@
                   "gns_adm1":"HR12",
                   "gns_region":null,
                   "br_vozaca":178532,
-                  "br_stanovnika":296195
+                  "br_stanovnika":296195,
+				  "stopa2009":11.60,
+				  "stopa2010":14.80,
+				  "stopa2011":15.70,
+				  "stopa2012":15.60,
+				  "stopa2013":17.00
                }
             },
             {
@@ -817,7 +858,12 @@
                   "gns_adm1":"HR14",
                   "gns_region":null,
                   "br_vozaca":85638,
-                  "br_stanovnika":172439
+                  "br_stanovnika":172439,
+				  "stopa2009":27.40,
+				  "stopa2010":30.80,
+				  "stopa2011":30.90,
+				  "stopa2012":33.20,
+				  "stopa2013":34.80
                }
             },
             {
@@ -897,7 +943,12 @@
                   "gns_adm1":"HR20",
                   "gns_region":null,
                   "br_vozaca":580710,
-                  "br_stanovnika":317606
+                  "br_stanovnika":317606,
+				  "stopa2009":11.60,
+				  "stopa2010":16.30,
+				  "stopa2011":18.00,
+				  "stopa2012":18.60,
+				  "stopa2013":21.50
                }
             },
             {
@@ -970,7 +1021,12 @@
                   "gns_adm1":"HR21",
                   "gns_region":null,
                   "br_vozaca":580710,
-                  "br_stanovnika":790017
+                  "br_stanovnika":790017,
+				  "stopa2009":6.30,
+				  "stopa2010":8.40,
+				  "stopa2011":9.40,
+				  "stopa2012":9.50,
+				  "stopa2013":10.80
                }
             },
             {
@@ -1042,7 +1098,12 @@
                   "gns_adm1":"HR04",
                   "gns_region":null,
                   "br_vozaca":132663,
-                  "br_stanovnika":208055
+                  "br_stanovnika":208055,
+				  "stopa2009":8.40,
+				  "stopa2010":10.70,
+				  "stopa2011":11.50,
+				  "stopa2012":10.90,
+				  "stopa2013":12.60
                }
             },
             {
@@ -1118,7 +1179,12 @@
                   "gns_adm1":"HR02",
                   "gns_region":null,
                   "br_vozaca":77392,
-                  "br_stanovnika":158575
+                  "br_stanovnika":158575,
+				  "stopa2009":26.20,
+				  "stopa2010":31.90,
+				  "stopa2011":33.80,
+				  "stopa2012":34.70,
+				  "stopa2013":37.00
                }
             },
             {
@@ -1194,7 +1260,12 @@
                   "gns_adm1":"HR10",
                   "gns_region":null,
                   "br_vozaca":149454,
-                  "br_stanovnika":305032
+                  "br_stanovnika":305032,
+				  "stopa2009":23.30,
+				  "stopa2010":28.20,
+				  "stopa2011":28.50,
+				  "stopa2012":29.30,
+				  "stopa2013":32.10
                }
             },
             {
@@ -1270,7 +1341,12 @@
                   "gns_adm1":"HR11",
                   "gns_region":null,
                   "br_vozaca":52163,
-                  "br_stanovnika":78034
+                  "br_stanovnika":78034,
+				  "stopa2009":21.50,
+				  "stopa2010":24.40,
+				  "stopa2011":26.20,
+				  "stopa2012":27.60,
+				  "stopa2013":30.50
                }
             },
             {
@@ -1344,7 +1420,12 @@
                   "gns_adm1":"HR18",
                   "gns_region":null,
                   "br_vozaca":91181,
-                  "br_stanovnika":179521
+                  "br_stanovnika":179521,
+				  "stopa2009":28.70,
+				  "stopa2010":31.80,
+				  "stopa2011":32.20,
+				  "stopa2012":32.90,
+				  "stopa2013":35.80
                }
             },
             {
@@ -1420,7 +1501,12 @@
                   "gns_adm1":"HR17",
                   "gns_region":null,
                   "br_vozaca":41116,
-                  "br_stanovnika":84836
+                  "br_stanovnika":84836,
+				  "stopa2009":27.30,
+				  "stopa2010":30.40,
+				  "stopa2011":32.50,
+				  "stopa2012":35.40,
+				  "stopa2013":36.20
                }
             },
             {
@@ -1496,7 +1582,12 @@
                   "gns_adm1":"HR01",
                   "gns_region":null,
                   "br_vozaca":60993,
-                  "br_stanovnika":119764
+                  "br_stanovnika":119764,
+				  "stopa2009":25.00,
+				  "stopa2010":29.30,
+				  "stopa2011":28.80,
+				  "stopa2012":29.00,
+				  "stopa2013":30.20
                }
             },
             {
@@ -1573,7 +1664,12 @@
                   "gns_adm1":"HR06",
                   "gns_region":null,
                   "br_vozaca":59530,
-                  "br_stanovnika":115584
+                  "br_stanovnika":115584,
+				  "stopa2009":14.30,
+				  "stopa2010":18.60,
+				  "stopa2011":18.70,
+				  "stopa2012":20.40,
+				  "stopa2013":23.90
                }
             },
             {
@@ -1647,7 +1743,12 @@
                   "gns_adm1":"HR09",
                   "gns_region":null,
                   "br_vozaca":61623,
-                  "br_stanovnika":113804
+                  "br_stanovnika":113804,
+				  "stopa2009":12.70,
+				  "stopa2010":16.60,
+				  "stopa2011":16.80,
+				  "stopa2012":18.00,
+				  "stopa2013":18.70
                }
             },
             {
@@ -1723,7 +1824,13 @@
                   "gns_adm1":"HR16",
                   "gns_region":null,
                   "br_vozaca":89401,
-                  "br_stanovnika":175951
+                  "br_stanovnika":175951,
+				  "stopa2009":11.20,
+				  "stopa2010":14.10,
+				  "stopa2011":15.00,
+				  "stopa2012":15.40,
+				  "stopa2013":16.90
+				  
                }
             }
          ],
